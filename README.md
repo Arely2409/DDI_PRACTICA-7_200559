@@ -7,5 +7,6 @@
   <h1 align="center">UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ</h1>
   <h2 align="center">ARELY AGUILAR FARIAS M-200559</h2>
   <h3 align="center">Especificación del saludo en base a la hora en WearOs</h3>
+  <h5 align="center">Se creó una aplicación para WearOs la cual muestra un saludo de acuerdo a la hora que el usuario le pida</h5>
   <h3 align="center">Fecha de entrega: 14/Junio/2023</h3>
 </P>
